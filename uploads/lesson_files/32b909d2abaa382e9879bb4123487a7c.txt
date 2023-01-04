@@ -1,0 +1,20 @@
+crear android apk
+ionic cordova build
+
+empesar nuevas activida
+ionic start myApp
+
+
+
+ionic lab
+ionic serve
+
+
+ionic utliza pluging para todo 
+
+the movie db
+ionic tab
+utilizar componente en ionic
+
+ionic g page pages/avartar --spec=false
+
